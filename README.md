@@ -11,6 +11,10 @@ And then try the ```psql``` command again
 
 You will need to do this each time you return to your Gitpod workspace for the Database Management Systems videos.
 
+```psql -h localhost -p 5432 -U postgres -W -d postgres```
+
+password: ```h******d!```
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome Sergii-Kostanets,
